@@ -5,7 +5,7 @@
 }
 
 body {
-  background: url("../images/tide.jpg");
+  background: url("./images/tide.jpg");
   color: grey;
   font-family: "sans-serif", arial;
   min-height: 100vh;
